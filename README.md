@@ -1,7 +1,7 @@
 # Heatmap Generation of Athens Property Data
 
 ## Overview
-This repository contains code and Jupyter Notebooks for generating interactive heatmaps of property prices in central Athens, Greece. The data includes properties for sale and rent, with a focus on Blueground apartments. The heatmaps visualize rental and sales prices, segmented by apartment size and number of bedrooms.
+This repository contains Jupyter Notebooks for generating interactive heatmaps of property prices in central Athens, Greece. The data includes properties for sale and rent, with an additional map for Blueground apartments. The heatmaps visualize rental and sales prices, segmented by apartment size and number of bedrooms.
 
 ## Features
 - **Dynamic Heatmaps**: Visualize rental and sales prices on an interactive map.
